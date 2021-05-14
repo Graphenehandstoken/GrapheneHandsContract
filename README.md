@@ -1,19 +1,12 @@
-
-
-
-<!-- PROJECT LOGO -->
-<br />
+ [Titles](#titles)
 <p align="center">
-  <a href="https://github.com/Graphenehandstoken/GrapheneHandsContract/raw/9e11bf02981af80401fb95059ec55aae65197fde/logo.png">
-    ![logo](https://user-images.githubusercontent.com/84188628/118306891-fbb6ad00-b4b7-11eb-870b-2613666764fb.png)
-  </a>
-
-   <h3 align="center">Graphene Hands</h3>
-
-  <p align="center">
-    Not for Paper Hands. not even for Diamond Hands, this is GrapheneHands
+   <img src="https://user-images.githubusercontent.com/84188628/118306891-fbb6ad00-b4b7-11eb-870b-2613666764fb.png" width="400" height="250">
   </p>
-
+   <p align="center" valign="top">
+   Not for Paper Hands. Not even for Diamond Hands, this is GrapheneHands
+  </p>
+  
+ 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -43,6 +36,7 @@
 
 </p>
 
+## titles
 ## About the Team
 The team behind Graphene Hands is comprised of United States Army Vets and Software Engineers from some of the best engineering schools in the world. Having served multiple tours in Iraq, the team is very well aware of the need for advancements in prosthetic limbs and re-enabling victims of unfortunate accidents. Not only is the team providing an opportunity for investors to benefit from the rise in value from the Graphene Hands Token, investors will also be contributing to Dev Wallet which will be used to advance Graphene related innovations around
 - Tactile enabled Graphene Prosthetics and Gameplay wearables
