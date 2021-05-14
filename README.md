@@ -4,20 +4,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Graphenehandstoken/GrapheneHandsContract/blob/main/logo.png">
+  <a href="https://github.com/Graphenehandstoken/GrapheneHandsContract/raw/9e11bf02981af80401fb95059ec55aae65197fde/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
    <h3 align="center">Graphene Hands</h3>
 
   <p align="center">
-    Not for Paper Hands, not even for Diamond Hands, this is GrapheneHands
+    Not for Paper Hands. not even for Diamond Hands, this is GrapheneHands
   </p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#abouttheteam">About the Team</a></li>
     <li>
       <a href="#concept">Concept</a>   
     </li>
@@ -42,9 +43,18 @@
 
 </p>
 
+## About the Team
+The team behind Graphene Hands is comprised of United States Army Vets and Software Engineers from some of the best engineering schools in the world. Having served multiple tours in Iraq, the team is very well aware of the need for advancements in prosthetic limbs and re-enabling victims of unfortunate incidents. Not only is the team providing an opportunity for investors to benefit from the rise in value from the Graphene Hands Token investors will be contributing the to Dev Wallet which will be used to advance Graphene related innovations around
+- Tactile enabled Graphene Prosthetics and Gameplay wearables
+- Rapid charge Graphene based batteries
+- Wearable technologies leveraging Graphene conductivity
+
+Initially the Dev Wallet will be used to make public donations to Graphene centric efforts, but over time we would like to bring this development in house to start releasing our own Graphene based product lines. Million mile batteries from Tesla, rapid charge batteries from Samsung and ultra-lightweight tactile enabled prosethics are all paving the way toward broader adoption of Graphene, and we want to be part of the revolution!
+
 ## Concept
-Graphene Hands is an entirely new kind of token that takes advantage of the predictable nature of liquidity pools and cryptocurrency markets. Trading crypto is unlike traditional investments such as the stock market as price of the token is not based on what the the buyers and sellers are willing to pay. It is entirely based on the ratio of the trading pair in the liquidity pool. The price is set via a simple x*y=k equation which allows entry and exit of your position at predictable price levels. 
-Taking advantage of this knowledge it is then possible to manage the stability and movement of the token value in a predictable fashion. In doing so we are creating a new token that leverages deflationary burn and anti-sell mechanisms to push the value of the token to the moon! The below information regarding the contract is a technical deep dive that you will not see from other token providers, as most of them are carbon copies of eachother. We are presenting the next evolution of truly safe moon opportunities.
+Graphene Hands is an entirely new kind of token that takes advantage of the predictable nature of liquidity pools and cryptocurrency markets. Trading crypto is unlike traditional investing as the price of the token is not based on what the buyers and sellers are willing to pay. It is entirely based on the ratio of the trading pair in the liquidity pool. The price is set via a simple x*y=k equation which allows entry and exit of your position at predictable price levels. 
+
+Taking advantage of this knowledge it is then possible to manage the stability and movement of the token value in a predictable fashion. In doing so, we are creating a new token that leverages deflationary burn and anti-sell mechanisms to push the value of the token to the moon! The below information regarding the contract is a technical deep dive that you will not see from other token providers. We are presenting the next evolution of truly safe moon opportunities!
 
 For transparency there are core concepts everyone should understand
 - The development team will NOT initially renounce the contract. We need access to the contract to control fees and eventually enable automated swap and liquify functions. Eventually, once we reach the minimum liquidity % the team will renounce the contract
