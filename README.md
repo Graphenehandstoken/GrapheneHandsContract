@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Graphenehandstoken/GrapheneHandsContract/raw/9e11bf02981af80401fb95059ec55aae65197fde/logo.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    ![logo](https://user-images.githubusercontent.com/84188628/118306891-fbb6ad00-b4b7-11eb-870b-2613666764fb.png)
   </a>
 
    <h3 align="center">Graphene Hands</h3>
@@ -66,7 +66,8 @@ For transparency there are core concepts everyone should understand
 ### Value Management
 As mentioned, the liquidity pool drives the price of the token using the simple formula X*Y=K where x and y are the token pairs and K is some constant. When the liquidity pool is created K is selected by the development team. As people buy and sell, the ratio of X*Y must always equal K, which is what causes the price to move. As you take out token Y, the value of token X goes up. Additionally, as the size of X and Y increases (ie the liquidity pool increases) the price impact of buying and selling diminishes. This is best illustrated from our friends at Uniswap | Pools
 
-![Uploading liqdiagram.jpg…]()
+![liqdiagram](https://user-images.githubusercontent.com/84188628/118306982-1557f480-b4b8-11eb-833f-f4eae5e8c3cf.jpg)
+
 
 With this knowledge how does Graphene Hands work? There are 4 key concepts
 - Initial liquidity is small, this will drive the price up very quickly as the amount of BNB in the pool will increase while the amount of Graphene Hands in the pool decreases
