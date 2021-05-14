@@ -14,12 +14,12 @@
 - [Built in Contract Protections](#protections)
 
 ## About the Team
-The team behind Graphene Hands is comprised of United States Army Vets and Software Engineers from some of the best engineering schools in the world. While this team provides an opportunity for investors to benefit from the rise in value from the Graphene Hands Token, investors will also be contributing to a Dev Wallet which will be used to advance Graphene related innovations around
+The team behind Graphene Hands is comprised of United States Army vets, business owners, and software engineers from some of the best engineering schools in the world. While this team provides an opportunity for investors to benefit from the rise in value from the Graphene Hands Token, investors will also be contributing to a Dev Wallet which will be used to advance Graphene related innovations around
 - Tactile enabled Graphene Prosthetics and Gameplay wearables
 - Rapid charge Graphene based batteries
 - Wearable technologies leveraging Graphene conductivity
 
-The Dev Wallet will be used to form strategic partnerships with industry to push forward Graphene centric efforts. Over time we would like to bring this development in house to start releasing our own Graphene based product lines. The application of Graphene is a new and emerging field that takes a large amount of capital in order to make substantial progress. Million mile batteries from Tesla, rapid charge batteries from Samsung and ultra-lightweight tactile enabled prosthetic limbs are all paving the way toward broader adoption of Graphene, and we want to be part of the revolution! Don't believe us, here is the proof...
+The Dev Wallet will be used to form strategic partnerships with industry to push forward Graphene centric efforts. Over time we would like to bring this development in house to start releasing our own Graphene based product lines starting with a line of smart wearables. The application of Graphene is a new and emerging field that takes a large amount of capital in order to make substantial progress. Million mile batteries from Tesla, rapid charge batteries from Samsung and ultra-lightweight tactile enabled prosthetic limbs are all paving the way toward broader adoption of Graphene, and we want to be part of the revolution! Don't believe us, here is the proof...
 
 >_Chinese EV maker Guangzhou Automobile New Energy announced that it has developed a graphene-enhanced battery that can be charged up to 85 percent in 8 minutes. Guangzhou believes the battery can be available for mass production as early as the end of this year._
 >
@@ -33,6 +33,11 @@ https://www.graphene-info.com/researchers-develop-washable-wearable-graphene-cap
 The word is that these graphene-based batteries will be capable of a full charge in under a half-hour_
 >
 https://www.graphene-info.com/samsung
+
+We have numerous opportunities in the works for application of Graphene Hands token in the world of graphene technologies including using tokens to
+- Buy time on Graphene Printers
+- Purchasing internally developed Graphene centric products such as smart wearables, biometric monitors and energy storing fabrics
+- Having a vote in the product lines we intend to pursue
 
 ## Token Concept
 Graphene Hands is an entirely new kind of token that takes advantage of the predictable nature of liquidity pools and cryptocurrency markets. Trading crypto is unlike traditional investing as the price of the token is not based on what the buyers and sellers are willing to pay. It is entirely based on the ratio of the trading pair in the liquidity pool. The price is set via a simple x*y=k equation which allows entry and exit of your position at predictable price levels. As can be seen in the below table, as the liquidity pool grows, the price impact of selling .2 BNB diminishes.  
