@@ -5,36 +5,25 @@
    <p align="center" valign="top">
    Not for Paper Hands. Not even for Diamond Hands, this is GrapheneHands
   </p>
-  
-  [About the Team](#abouttheteam)
+ </p> 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>[About the Team](#abouttheteam)
+    <li>[About the Team](#about-the-team)
     <li>
-      <a href="#concept">Concept</a>   
+       [Token Concept](#token-concept)
     </li>
-    <li><a href="#valuemanagement">Value Management</a></li>
     <li>
-      <a href="#fee-structure">Fee Structure</a>
-      <ul>
-        <li><a href="#promotionwallet">Promotion</a></li>
-        <li><a href="#devwallet">Dev Wallet</a></li>
-        <li><a href="#burnwallet">Burn</a></li>
-        <li><a href="#liquidity">Liquidity</a></li>
-      </ul>
+        [Value Management](#value-management)
+    <li>
+     [Fee Structure](#fee-structure)
     </li>
-    <li><a href="#protections">Built in Contract Protections</a></li>
-       <ul>
-        <li><a href="#whaleprevention">Promotion</a></li>
-        <li><a href="#botprevention">Bot Trap</a></li>
-        <li><a href="#liquiditymanagement">Managing Liquidity</a></li>
-      </ul>    
+    <li>[Built in Contract Protections](#protections)</li>
   </ol>
 </details>
 
-</p>
+
 
 ## titles
 ## About the Team
@@ -95,7 +84,7 @@ On launch the total liquidity pool fee is 52% which will decrease by .25% every 
 ### Protections
 Core to the smart contract are inherit benefits of the high liquidity fees. 
 
-#### Whale Protection & Dump Protection
+#### Whale Protection and Dump Protection
 Within PancakeSwap there is a hard limit of 49% slippage. By starting fees above this value it will not be possible to sell tokens. It is not until the fees+price change are less than 49% that the first sales can take place. If you are a big holder and attempt to dump your holdings the sale will simply not go through because the fees+price change will go above the slippage amount. For those that are interested, the API that is used that causes all of those annoying Pancakeswap errors takes in an input token amount and an expected output token amount. If the output token amount is less than what is expected (based on slippage) then the entire sell order fails. Because of this, whales simply cannot dump because the price change will be too large. If they bypass Pancakeswap then we should all thank them for their liquidity contributions!
 
 #### BOT Prevention
