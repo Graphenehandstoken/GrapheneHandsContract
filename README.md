@@ -9,7 +9,7 @@
 <!-- TABLE OF CONTENTS -->
 - [About the Team](#about-the-team)
 - [Token Concept](#token-concept)
-- [Value Management](#value-management)
+- [Tokenomics](#tokenomics)
 - [Fee Structure](#fee-structure)
 - [Built in Contract Protections](#protections)
 
@@ -33,7 +33,7 @@ For transparency there are core concepts everyone should understand
 - The development team will pay the high fees to sell just like anyone else, there are no exclusions to this rule 
 - Early buyers will NOT be able to sell their positions until after the total fees+ price slippage goes below the Pancakeswap limitation of 49%.
 
-### Value Management
+### Tokenomics
 As mentioned, the liquidity pool drives the price of the token using the simple formula X*Y=K where x and y are the token pairs and K is some constant. When the liquidity pool is created K is selected by the development team. As people buy and sell, the ratio of X*Y must always equal K, which is what causes the price to move. As you take out token Y, the value of token X goes up. Additionally, as the size of X and Y increases (ie the liquidity pool increases) the price impact of buying and selling diminishes. This is best illustrated from our friends at Uniswap | Pools
 
 ![liqdiagram](https://user-images.githubusercontent.com/84188628/118306982-1557f480-b4b8-11eb-833f-f4eae5e8c3cf.jpg)
