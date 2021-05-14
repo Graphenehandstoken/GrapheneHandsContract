@@ -9,6 +9,6 @@
   <h3 align="center">Graphene Hands</h3>
 
   <p align="center">
-    Not for paper hands, not even for Diamond Hands, this is GrapheneHands
+    Not for Paper Hands, not even for Diamond Hands, this is GrapheneHands
   </p>
 </p>
