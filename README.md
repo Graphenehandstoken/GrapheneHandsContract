@@ -1,4 +1,4 @@
- [Titles](#titles)
+
 <p align="center">
    <img src="https://user-images.githubusercontent.com/84188628/118306891-fbb6ad00-b4b7-11eb-870b-2613666764fb.png" width="400" height="250">
   </p>
@@ -6,7 +6,7 @@
    Not for Paper Hands. Not even for Diamond Hands, this is GrapheneHands
   </p>
   
- 
+  [About the Team](#abouttheteam)
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
