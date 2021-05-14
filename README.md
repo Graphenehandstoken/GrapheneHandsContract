@@ -11,7 +11,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#abouttheteam">About the Team</a></li>
+    <li>[About the Team](#abouttheteam)
     <li>
       <a href="#concept">Concept</a>   
     </li>
