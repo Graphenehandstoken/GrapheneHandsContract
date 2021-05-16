@@ -58,7 +58,7 @@ We manage all of this differently by sending the liquidity tokens to a wallet th
 Buyers are welcome, paying 0% fees to enter their position. Sellers on the other hand are penalized for Paper Handing out. The below fee structure ONLY applies to sells of Graphene Hands. 
 
 #### Promotion Wallet (.5%)
-In order to encourage participation, the team implemented a promotion wallet that receives 1% of every sell transaction. These funds will transparently be used to promote the token and gain awareness through contests, running a giveaway or taking advantage of influencers. 
+In order to encourage participation, the team implemented a promotion wallet that receives .5% of every sell transaction. These funds will transparently be used to promote the token and gain awareness through contests, running a giveaway or taking advantage of influencers. 
 
 #### Dev Wallet (1%)
 As previously mentioned, the dev team will use the 1% dev fee to further enhancements regarding application of Graphene technologies. We realize this is a broad and sweeping statement but the field is just emerging so we want to be strategic in how we use the dev wallet long term. The ultimate goal is to bring Graphene product development in house in order to usher in a new era of prosthetics and wearable gaming and fitness trackers.  
