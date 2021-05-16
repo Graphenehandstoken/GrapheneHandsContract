@@ -14,44 +14,29 @@
 - [Built in Contract Protections](#protections)
 
 ## About the Team
-The team behind Graphene Hands is comprised of United States Army vets, business owners, and software engineers from some of the best engineering schools in the world. While this team provides an opportunity for investors to benefit from the rise in value from the Graphene Hands Token, investors will also be contributing to a Dev Wallet which will be used to advance Graphene related innovations around
-- Tactile enabled Graphene Prosthetics and Gameplay wearables
-- Rapid charge Graphene based batteries
-- Wearable technologies leveraging Graphene conductivity
+The team behind Graphene Hands is comprised of United States Army vets, business owners, and software engineers from some of the best engineering schools in the world. While this team provides an opportunity for investors to benefit from the rise in value from the Graphene Hands Token, investors will also be contributing to a Dev Wallet which will be used to push the bounds of global monetary policies.
 
-The Dev Wallet will be used to form strategic partnerships with industry to push forward Graphene centric efforts. Over time we would like to bring this development in house to start releasing our own Graphene based product lines starting with a line of smart wearables. The application of Graphene is a new and emerging field that takes a large amount of capital in order to make substantial progress. Million mile batteries from Tesla, rapid charge batteries from Samsung and ultra-lightweight tactile enabled prosthetic limbs are all paving the way toward broader adoption of Graphene, and we want to be part of the revolution! Don't believe us, here is the proof...
-
->_Chinese EV maker Guangzhou Automobile New Energy announced that it has developed a graphene-enhanced battery that can be charged up to 85 percent in 8 minutes. Guangzhou believes the battery can be available for mass production as early as the end of this year._
->
-https://investingnews.com/daily/tech-investing/nanoscience-investing/graphene-investing/graphene-battery-tesla/
-
->_The researchers have shown how graphene and other related materials can be directly incorporated into fabrics to produce charge storage elements such as capacitors, paving the way to textile-based power supplies which are washable, flexible and comfortable to wear._
->
-https://www.graphene-info.com/researchers-develop-washable-wearable-graphene-capacitors-can-be-woven-directly-clothes
-
->_Samsung may be in the race to develop a graphene-based alternative to lithium-ion batteries for its phones. Rumors are going around claiming that the Company hopes to have at least one phone with a graphene battery ready next year or by 2021.
-The word is that these graphene-based batteries will be capable of a full charge in under a half-hour_
->
-https://www.graphene-info.com/samsung
-
-We have numerous opportunities in the works for application of Graphene Hands token in the world of graphene technologies including using tokens to
-- Buy time on Graphene Printers
-- Purchasing internally developed Graphene centric products such as smart wearables, biometric monitors and energy storing fabrics
-- Having a vote in the product lines we intend to pursue
 
 ## Token Concept
-Graphene Hands is an entirely new kind of token that takes advantage of the predictable nature of liquidity pools and cryptocurrency markets. Trading crypto is unlike traditional investing as the price of the token is not based on what the buyers and sellers are willing to pay. It is entirely based on the ratio of the trading pair in the liquidity pool. The price is set via a simple x*y=k equation which allows entry and exit of your position at predictable price levels. As can be seen in the below table, as the liquidity pool grows, the price impact of selling .2 BNB diminishes.  
+The token will have two phases. The first phase will be managed entirely by the development team. The second phase will rely on the communitity for self management. Phase 1 is necessary while the number of holders is low and adoption is increasing. To guarantee long term success, the development team will initially manage the fees and structure associated with the currency. Once the initial phase is over or stability and ubiquity of the token is achieved, control will be released to the world.
+
+### Phase 1: Development Team Token Management Approach
+Graphene Hands is an entirely new kind of token that initially takes advantage of the predictable nature of liquidity pools and cryptocurrency markets. Trading crypto is unlike traditional investing as the price of the token is not based on what the buyers and sellers are willing to pay. It is entirely based on the ratio of the trading pair in the liquidity pool. The price is set via a simple x*y=k equation which allows entry and exit of your position at predictable price levels. As can be seen in the below table, as the liquidity pool grows, the price impact of selling .2 BNB diminishes.  
 
 ![numbers](https://user-images.githubusercontent.com/84188628/118306768-d7f36700-b4b7-11eb-877d-d4d74023c4e0.PNG)
 
-Taking advantage of this knowledge it is then possible to manage the stability and movement of the token value in a predictable fashion. In doing so, we are creating a new token that leverages deflationary burn and anti-sell mechanisms to push the value of the token to the moon! The below information regarding the contract is a technical deep dive that you will not see from other token providers. We are presenting the next evolution of a truly safe moon opportunity!
-For transparency there are core concepts everyone should understand
-- The development team will NOT initially renounce the contract. We need access to the contract to control fees and eventually enable automated swap and liquefy functions. 
-- The development team manually manages the liquidity. All liquidity goes to the Graphene Hands wallet which will be controlled by the development team soley for the purpose of injecting liquidity back into the token. None of these funds will be returned to the dev team
-- The development team will pay the high fees to sell just like everyone else, there are no exclusions to this rule 
-- Early buyers will NOT be able to sell their positions until after the total fees + price slippage goes below the Pancakeswap limitation of 49%
+Taking advantage of this knowledge it is then possible to manage the stability and movement of the token value in a predictable fashion. In doing so, we are creating a new token that leverages deflationary burn and anti-sell mechanisms to push the value of the token to the moon! The below information regarding the contract is a technical deep dive that you will not see from other token providers. Because we intend to release control of the token to the world, it is imperative that investors that eventually vote on the outcome of the token have a decent understanding of how things work.
 
-### Tokenomics
+For transparency there are core concepts everyone should understand
+- The development team will NOT renounce the contract. We need access to the contract to control fees long term 
+- The development team manually manages the liquidity. All liquidity goes to the Graphene Hands wallet which will be controlled by the development team soley for the purpose of injecting liquidity back into the token. None of these funds will be returned to the dev team. Eventually we intend to enable the automated liquidity functions in the smart contract but in the short term the development team will manage this
+- The development team will pay the high fees to sell just like everyone else, there are no exclusions to this rule 
+- Early buyers will NOT be able to sell their positions until after the total fees + price slippage goes below the Pancakeswap limitation of 49%. We generally anticipate this to occur when the liquidity fee reaches 30%
+
+### Phase 2: Communitity Managed Tokenomics
+Once price stability and adoption is achieved the Graphene Hands development team will release a series of blockchain based voting systems that allow holders to vote on the specific tokenomics. We will likely run the vote every month and attempt at evenly distributing voting rights based on the number of tokens held, while avoiding whales driving the direction. We also expect to directly engage the community on how best to achieve these goals.
+
+### Understanding How Tokens implement Liquidity Fees
 As mentioned, the liquidity pool drives the price of the token using the simple formula X*Y=K where x and y are the token pairs and K is some constant. When the liquidity pool is created K is selected by the development team. As people buy and sell, the ratio of X*Y must always equal K, which is what causes the price to move. As you take out token Y, the value of token X goes up. Additionally, as the size of X and Y increases (ie the liquidity pool grows) the price impact of buying and selling diminishes. This is best illustrated from our friends at Uniswap | Pools
 
 ![liqdiagram](https://user-images.githubusercontent.com/84188628/118306982-1557f480-b4b8-11eb-833f-f4eae5e8c3cf.jpg)
@@ -94,10 +79,10 @@ The Graphene Hands token evolution/life will be the following. Note that we are 
 - The liquidity pool will be locked as the value of the pool increases (Using Cryptex - https://cryptexlock.me/)
 - Majority of the Developer tokens will be locked via Cryptex as value increases (Using Cryptex - https://cryptexlock.me/)
 - The deployer account will remain unlocked so as to use for adding liquidity and listing on additional exchanges
-- The contract will not be renounced for at least the 1st year until the liquidity fee drops to 2%
 
-### Protections
-Core to the smart contract are inherit benefits of the high liquidity fees. 
+
+### Initial Token Protections
+During the initial launch the Dev team strategically chose a fee structure to maximize returns and provide stability. The initial fee structures have the following benefits.
 
 #### Whale Protection and Dump Protection
 Within PancakeSwap there is a hard limit of 49% slippage. By starting fees above this value it will not be possible to sell tokens. It is not until the fees+price change are less than 49% that the first sales can take place. If you are a big holder and attempt to dump your holdings the sale will simply not go through because the fees+price change will go above the slippage amount. For those that are interested, the API that is used that causes all of those annoying Pancakeswap errors takes in an input token amount and an expected output token amount. If the output token amount is less than what is expected (based on slippage) then the entire sell order fails. Because of this, whales simply cannot dump because the price change will be too large. If they bypass Pancakeswap then we should all thank them for their liquidity contributions!
