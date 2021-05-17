@@ -18,7 +18,7 @@ The team behind Graphene Hands is comprised of United States Army vets, business
 
 
 ## Token Concept
-The token will have two phases. The first phase will be managed entirely by the development team. The second phase will rely on the communitity for self management. Phase 1 is necessary while the number of holders is low and adoption is increasing. To guarantee long term success, the development team will initially manage the fees and structure associated with the currency. Once the initial phase is over or stability and ubiquity of the token is achieved, control will be released to the world.
+The token will have three phases. The first phase will be managed entirely by the development team. The second phase will rely on the communitity for self management. Phase 1 is necessary while the number of holders is low and adoption is increasing. To guarantee long term success, the development team will initially manage the fees and structure associated with the currency. Once the initial phase is over or stability and ubiquity of the token is achieved, control will be released to the world during Phase 2. Phase 3 is where change starts to happen through what we are calling "Project Agora". 
 
 ### Phase 1: Development Team Token Management Approach
 Graphene Hands is an entirely new kind of token that initially takes advantage of the predictable nature of liquidity pools and cryptocurrency markets. Trading crypto is unlike traditional investing as the price of the token is not based on what the buyers and sellers are willing to pay. It is entirely based on the ratio of the trading pair in the liquidity pool. The price is set via a simple x*y=k equation which allows entry and exit of your position at predictable price levels. As can be seen in the below table, as the liquidity pool grows, the price impact of selling .2 BNB diminishes.  
@@ -35,6 +35,11 @@ For transparency there are core concepts everyone should understand
 
 ### Phase 2: Communitity Managed Tokenomics
 Once price stability and adoption is achieved the Graphene Hands development team will release a series of blockchain based voting systems that allow holders to vote on the specific tokenomics. We will likely run the vote every month and attempt at evenly distributing voting rights based on the number of tokens held, while avoiding whales driving the direction. We also expect to directly engage the community on how best to achieve these goals.
+
+### Phase 3: Project Agora
+Through phase 1 and 2 the development team will be diligently working to develop what we are calling "Project Agora". The scope and global impact will reach full strength as we bring "Project Agora" online. While we will not disclose any details until we launch, we do recommend taking a look at the role the Agora had on the world. A modern day digital Agora backed by blockchain is a concept we are very excited to introduce! 
+https://www.livescience.com/4861-greek-agora-changed-world.html
+
 
 ### Understanding How Tokens implement Liquidity Fees
 As mentioned, the liquidity pool drives the price of the token using the simple formula X*Y=K where x and y are the token pairs and K is some constant. When the liquidity pool is created K is selected by the development team. As people buy and sell, the ratio of X*Y must always equal K, which is what causes the price to move. As you take out token Y, the value of token X goes up. Additionally, as the size of X and Y increases (ie the liquidity pool grows) the price impact of buying and selling diminishes. This is best illustrated from our friends at Uniswap | Pools
